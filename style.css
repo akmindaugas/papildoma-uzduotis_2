@@ -113,8 +113,28 @@ p{
     color: #f1f0ed;
     margin-bottom: 10px;
 }
-button{
+.sedans button{
     color: #e28525;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color:  #f1f0ed;
+    /* border: 2px solid red; */
+    margin: 40px auto;
+    font-weight: bolder;
+}
+.suvs button{
+    color: #03535a;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color:  #f1f0ed;
+    /* border: 2px solid red; */
+    margin: 40px auto;
+    font-weight: bolder;
+}
+.luxury button{
+    color: #003937;
     border: none;
     padding: 10px 20px;
     border-radius: 20px;
